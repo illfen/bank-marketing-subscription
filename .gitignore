@@ -1,0 +1,9 @@
+.conda/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+tmp/
+report/
+scripts/generate_report.py
+scripts/build_latex_report.sh

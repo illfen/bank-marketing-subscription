@@ -1,0 +1,3 @@
+setting,roc_auc
+without_duration_primary_experiment,0.77202
+with_duration_leakage_check,0.907922

@@ -1,0 +1,26 @@
+{
+  "n_samples": 45211,
+  "n_features_with_target": 17,
+  "positive_count": 5289,
+  "negative_count": 39922,
+  "positive_rate": 0.116985,
+  "columns": [
+    "age",
+    "job",
+    "marital",
+    "education",
+    "default",
+    "balance",
+    "housing",
+    "loan",
+    "contact",
+    "day",
+    "month",
+    "duration",
+    "campaign",
+    "pdays",
+    "previous",
+    "poutcome",
+    "y"
+  ]
+}
